@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "ru.SOFFGames.gco"
+          description: "Grand Criminal"
           required: true
 
 jobs:
