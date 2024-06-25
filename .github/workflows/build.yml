@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "Grand Criminal"
+          description: "com.feelingtouch.zfsniper"
           required: true
 
 jobs:
