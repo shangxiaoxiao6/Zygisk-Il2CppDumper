@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.feelingtouch.zfsniper"
+          description: "请输入游戏包名"
           required: true
 
 jobs:
