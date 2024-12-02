@@ -1,9 +1,9 @@
-name: Build
+name: Zombie Frontier4
 on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "请输入游戏包名"
+          description: "com.feelingtouch.zfsniper"
           required: true
 
 jobs:
